@@ -17,3 +17,7 @@ Move with ```Arrow key```, Day n Night with ```1 or 2```, Modify speed with ```+
 
 Quit with ```Esc``` key.
 
+
+## Warning
+
+The graphical library is for OSX 10.9 (Maverick). It can not produce the same rendering with another version.
